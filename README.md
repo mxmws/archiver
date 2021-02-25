@@ -9,7 +9,8 @@ Click [here](https://discord.com/oauth2/authorize?client_id=808370491530149928&p
 ## Installation
 It is recommended to run archiver on repl.it. If you chose to run it on another server you'll need to provide your own database.
 ### 1. Install discord.py
-    - $ python3 -m pip install -U discord.py
+    $ python3 -m pip install -U discord.py
 ### 2. Add token
-    - create a new application and copy the token: https://discord.com/developers/applications
-    - add the token at the very buttom of archiver.py
+    create a new application and copy the token: https://discord.com/developers/applications
+    
+    add the token at the very buttom of archiver.py
