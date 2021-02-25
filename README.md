@@ -1,5 +1,5 @@
 # archiver
-A simple discord bot that allows users to archive messages and files.
+A simple discord bot that allows users to archive/star messages and files. It works like a server wide pin board so your favorite messages will be remembered.
 Click [here](https://discord.com/oauth2/authorize?client_id=808370491530149928&permissions=1073793088&scope=bot) to invite the bot to a server.
 
 ## Usage
